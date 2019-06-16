@@ -1,0 +1,17 @@
+{
+  "name": "js-breakout-game",
+  "version": "1.0.0",
+  "description": "Breakout game in pure javascript",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-config-google": "^0.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick",
+  "license": "ISC"
+}
